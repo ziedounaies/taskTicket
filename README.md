@@ -98,7 +98,14 @@ Make sure you have the following installed:
 ## Screenshots
 
 ### Dashboard View
-![Download](./screenshot/download.png)
+![Download](./screenshot/dash.png)
+![Download](./screenshot/login.png)
+![Download](./screenshot/profile.png)
+![Download](./screenshot/project.png)
+![Download](./screenshot/search.png)
+![Download](./screenshot/tasks.png)
+![Download](./screenshot/users.png)
+
 
 
 
